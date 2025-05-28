@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrumairkhan74&label=Profile%20views&color=0e75b6&style=flat" alt="mrumairkhan74" /> </p>
 
-- 🌱 I’m currently a **MERN Full Stack development.**
+- 🌱 I’m currently a **MERN Stack development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrumairkhan74/](https://github.com/mrumairkhan74/)
 
