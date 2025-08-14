@@ -1,7 +1,7 @@
 ![logo](https://github.com/mrumairkhan74/mrumairkhan74/blob/main/LinkedinCover.jpg)
 <h1 align="center">Hi 👋, I'm Umair Khan</h1>
 <h3 align="center">A passionate front-end developer from Pakistan.</h3>
-<a align="center" href='https://mrumairkhan74-portfolio.vercel.app'>My Portfolio</a>
+<p align="center"><a align="center" href='https://mrumairkhan74-portfolio.vercel.app' target="_blank">My Portfolio</a></p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrumairkhan74&label=Profile%20views&color=0e75b6&style=flat" alt="mrumairkhan74" /> </p>
 
