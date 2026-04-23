@@ -52,7 +52,7 @@ I build **production-ready web applications** that solve real problems. All my p
 
 ### 3. 💬 **We Chat** - Real-time Messenger
 
-[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-Click_To_View-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://we-chat.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-Click_To_View-00C853?style=for-the-badge&logo=vercel&logoColor=white)](we-chat-alpha-ten.vercel.app)
 [![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/mrumairkhan74/We-Chat)
 
 **Socket.io | React | Express | MongoDB**
@@ -74,7 +74,7 @@ I build **production-ready web applications** that solve real problems. All my p
 
 ### 5. 📰 **C-News** - News Aggregator
 
-[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-Click_To_View-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://c-news.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-Click_To_View-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://c-news-frontend.vercel.app)
 [![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/mrumairkhan74/C-news)
 
 **React | REST API | Responsive Design**
