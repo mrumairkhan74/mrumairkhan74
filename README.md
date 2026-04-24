@@ -105,12 +105,12 @@ I build **production-ready web applications** that solve real problems. All my p
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrumairkhan74&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrumairkhan74&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrumairkhan74&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=mrumairkhan74&theme=radical" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrumairkhan74&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrumairkhan74&layout=compact&theme=radical&count_private=true">
 </p>
 
 ---
