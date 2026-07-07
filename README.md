@@ -98,6 +98,9 @@ I build **production-ready web applications** that solve real problems. All my p
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white">
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white">
 </p>
 
 ---
